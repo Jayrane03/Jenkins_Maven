@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Java Web App Test Suite">
+    <test name="Web App Tests">
+        <classes>
+            <class name="com.example.My_Test"/>
+        </classes>
+    </test>
+</suite>a
